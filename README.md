@@ -20,7 +20,7 @@
 <div> <br>
 
   ##
-  <a href="https://www.linkedin.com/in/bruno-braga-274a0b268/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-braga-274a0b268/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" target="_blank" height="30" width="40"></a>
   <br>
   <a href = "mailto:alemelo50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
